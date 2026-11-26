@@ -1,0 +1,45 @@
+{
+  "Frutas": [
+    "banana",
+    "abacaxi",
+    "morango",
+    "maçã",
+    "melancia",
+    "goiaba",
+    "maracujá"
+  ],
+  "Animais": [
+    "cachorro",
+    "elefante",
+    "girafa",
+    "jacaré",
+    "tartaruga",
+    "papagaio",
+    "tubarão"
+  ],
+  "Países": [
+    "brasil",
+    "argentina",
+    "japão",
+    "canadá",
+    "portugal",
+    "alemanha",
+    "méxico"
+  ],
+  "Profissões": [
+    "médico",
+    "professor",
+    "engenheiro",
+    "motorista",
+    "cozinheiro",
+    "bombeiro"
+  ],
+  "Cores": [
+    "vermelho",
+    "amarelo",
+    "laranja",
+    "violeta",
+    "marrom",
+    "cinza"
+  ]
+}
